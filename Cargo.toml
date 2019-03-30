@@ -1,6 +1,6 @@
 [package]
 name = "keyguard"
-version = "0.1.0"
+version = "0.0.1"
 authors = ["lucas"]
 keywords = ["nintendo", "keys", "switch"]
 description = "A placeholder for a future crate (ETA is August 2019)"
